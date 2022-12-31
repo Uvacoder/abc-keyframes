@@ -11,7 +11,7 @@
     "build-prod": "npm run lint && vue-cli-service build --mode production"
   },
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^0.27.2",
     "core-js": "^2.6.12",
     "dayjs": "^1.10.4",
     "eslint-loader": "^2.1.2",
